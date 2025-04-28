@@ -63,8 +63,8 @@ Integrated tools to streamline collaborative story development and QA checks in 
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-gaikwad/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vinitgaikwad@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-pawar-55072225a/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prajaktacpawar2003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![Resume](https://img.shields.io/badge/-Resume-4CAF50?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://your-resume-link.com)
 
