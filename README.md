@@ -48,6 +48,58 @@ A machine learning-based web app offering:
 - 🦠 Disease detection using PyTorch  
 🔗 [View Project Repo](https://github.com/PrajaktaPawar2003/Agritech)
 
+---
+
+## 💰 Invest Smart – [Public Repository]
+**Category:** Front-End | UI/UX | Finance  
+A stylish, responsive landing page focused on promoting smart financial investment habits. Great for use as a template or learning CSS layout and design.
+
+- Clean and modern design
+- Responsive across devices
+- Can be extended into a financial advisor platform
+
+**Tech Stack:** HTML, CSS  
+🔗 [View Project](https://github.com/PrajaktaPawar2003/invest-smart)
+
+---
+## 🔐 Churn Prediction – [Private Repository]
+**Category:** Data Science | Machine Learning | Business Analytics  
+A predictive model that helps telecom/service providers identify customers who are likely to churn. The model uses customer behavior, demographics, and account data.
+
+- Feature engineering and data cleaning
+- Logistic Regression, Random Forest, and model evaluation
+- ROC-AUC, confusion matrix, and other performance metrics
+
+**Tech Stack:** Python, Jupyter, Scikit-learn, Pandas, Matplotlib  
+🔗 [View Project](https://github.com/PrajaktaPawar2003/churn-predction)
+
+---
+## 🎨 Air Canvas – [Public Repository]
+**Category:** Computer Vision | OpenCV | Fun Project  
+A virtual drawing tool that lets users draw on the screen in real-time by waving a colored object in front of a webcam.
+
+- Real-time object tracking using OpenCV
+- Canvas creation and drawing simulation
+- Fun application to demonstrate motion tracking and color detection
+
+**Tech Stack:** Python, OpenCV, NumPy  
+🔗 [View Project](https://github.com/PrajaktaPawar2003/air_canvas)
+
+---
+## 🏥 Hospease – [Public Repository]
+**Category:** Front-End | Healthcare | Web Design  
+A hospital/clinic management concept web app. While front-end focused, it lays the foundation for a robust healthcare service platform.
+
+- Appointment booking UI
+- Service and patient interface
+- Can be extended with backend for full functionality
+
+**Tech Stack:** HTML, CSS, JavaScript  
+🔗 [View Project](https://github.com/PrajaktaPawar2003/hospease)
+
+---
+
+
 💬 **Threadbuilder + Rigor Builder Integration**  
 Integrated tools to streamline collaborative story development and QA checks in product workflows.
 
