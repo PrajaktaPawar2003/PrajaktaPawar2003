@@ -54,6 +54,18 @@
 
 ## 📌 Projects Spotlight
 
+## 🏥 Hospease – [Public Repository]
+**Category:** Front-End | Healthcare | Web Design  
+A hospital/clinic management concept web app. While front-end focused, it lays the foundation for a robust healthcare service platform.
+
+- Appointment booking UI
+- Service and patient interface
+- Can be extended with backend for full functionality
+
+**Tech Stack:** HTML, CSS, JavaScript  
+🔗 [View Project](https://github.com/PrajaktaPawar2003/hospease)
+
+---
 ## 🌾 Agritech – [Public Repository]
 **Category:** Machine Learning | Computer Vision | Agriculture  
 A smart farming assistant that helps farmers make informed decisions. The system provides:
@@ -102,18 +114,6 @@ A virtual drawing tool that lets users draw on the screen in real-time by waving
 
 **Tech Stack:** Python, OpenCV, NumPy  
 🔗 [View Project](https://github.com/PrajaktaPawar2003/air_canvas)
-
----
-## 🏥 Hospease – [Public Repository]
-**Category:** Front-End | Healthcare | Web Design  
-A hospital/clinic management concept web app. While front-end focused, it lays the foundation for a robust healthcare service platform.
-
-- Appointment booking UI
-- Service and patient interface
-- Can be extended with backend for full functionality
-
-**Tech Stack:** HTML, CSS, JavaScript  
-🔗 [View Project](https://github.com/PrajaktaPawar2003/hospease)
 
 ---
 
