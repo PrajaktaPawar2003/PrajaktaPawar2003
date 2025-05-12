@@ -46,7 +46,7 @@ A machine learning-based web app offering:
 - 🌾 Crop suggestion based on climate & soil
 - 🧪 Fertilizer suggestion
 - 🦠 Disease detection using PyTorch  
-🔗 [View Project Repo](#)
+🔗 [View Project Repo](https://github.com/PrajaktaPawar2003/Agritech)
 
 💬 **Threadbuilder + Rigor Builder Integration**  
 Integrated tools to streamline collaborative story development and QA checks in product workflows.
