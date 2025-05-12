@@ -39,26 +39,31 @@
 
 ---
 
-### 📌 Projects Spotlight
+## 📌 Projects Spotlight
 
-🚜 **Agritech - Crop Services**  
-A machine learning-based web app offering:
-- 🌾 Crop suggestion based on climate & soil
-- 🧪 Fertilizer suggestion
-- 🦠 Disease detection using PyTorch  
-🔗 [View Project Repo](https://github.com/PrajaktaPawar2003/Agritech)
+## 🌾 Agritech – [Public Repository]
+**Category:** Machine Learning | Computer Vision | Agriculture  
+A smart farming assistant that helps farmers make informed decisions. The system provides:
+
+- 🌱 **Crop Suggestion:** Based on climatic conditions and soil nutrient values.
+- 💊 **Fertilizer Recommendation:** Recommends fertilizers depending on crop type and area.
+- 📸 **Crop Disease Detection:** Uses PyTorch to identify diseases from leaf images.
+
+**Tech Stack:** Python, Jupyter Notebook, Pandas, Scikit-learn, PyTorch, Streamlit 
+🔗 [View Project](https://github.com/PrajaktaPawar2003/Agritech)
 
 ---
 
 ## 💰 Invest Smart – [Public Repository]
 **Category:** Front-End | UI/UX | Finance  
-A stylish, responsive landing page focused on promoting smart financial investment habits. Great for use as a template or learning CSS layout and design.
+A stylish, responsive landing page focused on promoting smart financial investment habits. use machine learning model for prediction with accuracy and used python library matplotlib to construct a graph of predction for greater understanding about the investment .
 
 - Clean and modern design
 - Responsive across devices
 - Can be extended into a financial advisor platform
+- easy to understand and use
 
-**Tech Stack:** HTML, CSS  
+**Tech Stack:** python, flask, jupyter, Scikit-learn, Pandas, Matplotlib 
 🔗 [View Project](https://github.com/PrajaktaPawar2003/invest-smart)
 
 ---
