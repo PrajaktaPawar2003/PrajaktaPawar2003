@@ -70,13 +70,9 @@ Integrated tools to streamline collaborative story development and QA checks in 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
 
----
+
+
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
