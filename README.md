@@ -55,14 +55,14 @@
 ## 📌 Projects Spotlight
 
 ## 🏥 Hospease – [Public Repository]
-**Category:** Front-End | Healthcare | Web Design  
+**Category:** Web Application | Healthcare | Web Design  
 A hospital/clinic management concept web app. While front-end focused, it lays the foundation for a robust healthcare service platform.
 
 - Appointment booking UI
 - Service and patient interface
 - Can be extended with backend for full functionality
 
-**Tech Stack:** HTML, CSS, JavaScript  
+**Tech Stack:** HTML, CSS, JavaScript, ReactJS, MongoDB, ExpressJS, NodeJS
 🔗 [View Project](https://github.com/PrajaktaPawar2003/hospease)
 
 ---
