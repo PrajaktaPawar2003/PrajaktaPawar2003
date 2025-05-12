@@ -55,7 +55,7 @@ A smart farming assistant that helps farmers make informed decisions. The system
 ---
 
 ## 💰 Invest Smart – [Public Repository]
-**Category:** Front-End | UI/UX | Finance  
+**Category:** Machine learning | Data Science | Finance  
 A stylish, responsive landing page focused on promoting smart financial investment habits. use machine learning model for prediction with accuracy and used python library matplotlib to construct a graph of predction for greater understanding about the investment .
 
 - Clean and modern design
